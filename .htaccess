@@ -1,0 +1,25 @@
+#rewrite engine must be working
+RewriteEngine On
+#make apache condier the
+Options -MultiViews
+
+# 404 Page - not used as it only take absolute path from web root, workaround is at bottom
+#ErrorDocument 404 ./404.php
+
+
+#only change url if file not exist
+RewriteCond %{REQUEST_FILENAME} !-f
+
+#only change url if directory not exist
+RewriteCond %{REQUEST_FILENAME} !-d
+
+#404 document in current directory
+RewriteRule .* 404.php [L]
+
+
+#guide to flags
+# NC - No Case
+# L - Last to match
+# QSA - Query String Append, adds quaery to the urls after rewrite
+
+#Other configuration options are made in config.php (in includes)

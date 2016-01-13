@@ -1,0 +1,30 @@
+/* Highlight current */
+.nav-left-sidebar > .active > a, .nav-left-sidebar > .active > a:hover, .nav-left-sidebar > .active > a:focus {
+    color: #fff;
+    background-color: #428bca;
+}
+.col-sm-3.col-md-2.left-sidebar {
+        padding-top: 1em;
+        padding-bottom: 0;
+    }
+
+.nav-left-sidebar .left-sidebar-button a, 
+.nav-left-sidebar .left-sidebar-button a:hover, 
+.nav-left-sidebar .left-sidebar-button a:focus {
+    background-color: lightgray;
+}
+
+@media only screen and (min-width: 768px) {
+    #content {
+        width: 60%;
+    }
+    .col-sm-3 {
+        width: 20%;
+    }
+    .left-sidebar {
+        width: 20%;
+    }
+    .col-sm-3.col-md-2.left-sidebar {
+        padding-bottom: 1em;
+    }
+}
