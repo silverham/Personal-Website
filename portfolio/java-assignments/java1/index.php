@@ -32,6 +32,7 @@ $templateLogic->startBody();
         <param name="code" value="Java1Assign1Task1CardLayoutApplet" />
         <?php echo htmlSnippets::jAppletMessage(); ?>
     </object>
+<p><a class="btn btn-info" href="https://github.com/silverham/ITC206-Java-1/blob/master/src/Assign1/Java1Assign1Task1CardLayoutApplet.java" target="_blank">Source Code</a></p>
 <h3>Assignment 1 - Task 2: Zoo Entry Calculator</h3>
 <div class="panel panel-default">
     <div class="panel-heading">
@@ -67,6 +68,7 @@ $templateLogic->startBody();
             <param name="code" value="Java1Assign1Task2ZooEntryApplet" />
             <?php echo htmlSnippets::jAppletMessage(); ?>
         </object>
+<p><a class="btn btn-info" href="https://github.com/silverham/ITC206-Java-1/blob/master/src/Assign1/Java1Assign1Task2ZooEntryApplet.java" target="_blank">Source Code</a></p>
 <?php
 $templateLogic->endBody();
 

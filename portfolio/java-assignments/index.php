@@ -5,7 +5,7 @@ require_once("../../includes/config.php");
 
 $templateLogic = new templateLogic;
 $templateLogic->setTitle('Java Assignments');
-$templateLogic->setSubMenuType("java-assignments");
+$templateLogic->setSubMenuType("java-assignments", "java-assignments");
 $templateLogic->startBody();
 ?>
 <p>Java is the core language used during my Bachelor of Information Technology degree. To display my technical competencies of for I have done, I put here to everyone to see.</p>
