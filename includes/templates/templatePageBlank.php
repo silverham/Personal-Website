@@ -3,7 +3,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="<?php echo CONFIG_ROOT_URL."/favicon.ico"; ?>" type="image/x-icon" />
+<link rel="shortcut icon" href="<?php echo CONFIG_ROOT_URL."favicon.ico"; ?>" type="image/x-icon" />
 <!-- CSS files -->
 <?php
 foreach ($this->stylesheets as $stylesheet) {
