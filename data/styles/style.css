@@ -77,13 +77,13 @@ border:1px solid #ccc;
     margin-bottom: 20px;
 }
 
-#content {
+.content {
     padding:10px;
     padding-top: 0;
 }
 
 /*Force the content to expand to accommodate the floating elements */
-#content:after {
+.content:after {
     content:"";
     display:table;
     clear:both;
@@ -136,9 +136,13 @@ img {
     #sidebar {
         float: left;
     }
-    #content {
+    .content {
         width: 80%;
         float: left;
+    }
+    .no-sidebar {
+        width: 100%;
+        float: none;
     }
 }
 

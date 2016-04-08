@@ -1,5 +1,5 @@
 <!DOCTYPE html> 
-<html>
+<html lang="en">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -21,28 +21,27 @@ echo '<link href="' . $stylesheet . '" rel="stylesheet" type="text/css" />' . "\
 <!-- Custom data top -->
 <?php echo $this->customHeaders; ?>
 <!-- end custom data top -->
+<?php include_once("analyticstracking.php") ?>
 <title><?php echo $this->title; ?> - <?php echo STYLES_SITE_HEADING ?></title>
  
 </head>
 
     <body>
-        <!-- start #wrapper -->
-        <div id="wrapper"> 
-            
-            <div id="content">
-                
-                <!-- sub menu -->
-                <?php if (!is_null($this->subMenuFile)) {
-                    include ($this->subMenuFile);
-                } else {
-                    echo '<!-- no sub menu included -->';
-                } ?>
-                <!-- end sub menu -->
+        <!-- start .container -->
+        <div class="container">     
+            <!-- start #content -->
+            <div class="content no-sidebar">
+                <!-- heading -->
+                <h2 id="heading"><?php echo $this->heading; ?></h2>
+                <!-- end heading -->
                 
                 <?php echo $this->body; ?>
                 
             </div> 
             <!-- end #content -->
+
+            <?php include('footer.php'); ?>
+        
         </div> 
         <!-- End #wrapper -->
         <!-- Js files bottom -->

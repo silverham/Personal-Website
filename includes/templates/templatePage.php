@@ -43,7 +43,7 @@ echo '<link href="' . $stylesheet . '" rel="stylesheet" type="text/css" />' . "\
             } ?>
             <!-- end sub menu -->            
             <!-- start #content -->
-            <div id="content">
+            <div class="content">
                 <!-- heading -->
                 <h2 id="heading"><?php echo $this->heading; ?></h2>
                 <!-- end heading -->

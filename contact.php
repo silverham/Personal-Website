@@ -31,8 +31,8 @@ $templateLogic->addCustomHeadersStart();
 $templateLogic->startBody();
 ?>
 <p>Feel free to drop by.</p>
-<div class="alert alert-danger" role="alert">Sorry, due a technical problem, this form currently does not work.</div>
-<div class="alert alert-info" role="alert">However, You can email me at <u><a href="mailto:myfeedback@joshuagraham.id.au">this address</a></u>, whilst I work with my web host to fix the issue. Thanks!</div>
+<!-- <div class="alert alert-danger" role="alert">Sorry, due a technical problem, this form currently does not work.</div> -->
+<div class="alert alert-info" role="alert">This form now works, (it was a spam issue). You can also email me at <u><a href="mailto:myfeedback@joshuagraham.id.au">this address</a></u>, if you prefer.</div>
 <form action="feedback.php" method="post">
 <table>
 <tbody>

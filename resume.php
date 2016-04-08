@@ -13,70 +13,101 @@ $templateLogic->setTitle('Resume');
 $templateLogic->startBody();
 ?>
 <p>	Joshua Graham<br />
-	URANQUINTY NSW 2652<br />
-	04 38 211 522<br />
-	(02) 69 229 800 </p>
-<p>I’m studying for a software degree but I like delving into websites and getting physical with systems. </p>
-<h2>Education</h2>
-<p><strong>Charles Sturt University [2012 – current]</strong><br />
-		-Bachelor of Information Technology, major in software development<br />
-		-Expecting to finish in 2015 </p>
-<p><strong>Secondary School [2006- 2011]</strong><br />
-		-Wagga Wagga Christian College<br />
-		-Started in Year 7 through to year 12 completing the HSC</p>
+    04 38 211 522</p>
+<h2>Summary</h2>
+
+<ul>
+<li>Knowledge of Software Development including Java, PHP, Python etc to build Solutions</li>
+<li>Completed Cisco’s CCNA subjects at University with high marks</li>
+<li>Installation and setup of computers and devices including phones</li>
+<li>Team Player & Learns quickly</li>
+<li>Nearly Distinction level Grade Average in Bachelor’s degree</li>
+</ul>
+
 <h2>Employment History</h2>
-<p><strong>Casual Project Assistant (2014)[April &#8211; current) </strong><br />
-Charles Sturt University<br />
-Create and maintain various websites within Human Resources<br />
-&#8211;	Liaise with IT Division and other employees collaboratively on website projects<br />
-&#8211;	Code with XHTML, CSS and work with JQuery scripts.</p>
-<p><strong>Casual Technical Installer (2012 &#8211; 2013) </strong><br />
-Laurie Graham’s Communications<br />
-&#8211;	Organise appointments with Wagga and Surrounding businesses<br />
-&#8211;	Install Eftpos and ATM machines<br />
-&#8211;	Authorise installs by calling various Banks</p>
-<p><strong>Casual Computer Installer (2013) [February – December]</strong><br />
-Charles Sturt University<br />
-&#8211;	Image and setup computers according to procedure<br />
-&#8211;	Organise appointments to install computers<br />
-&#8211;	Backup and transfer data whilst respecting privacy<br />
-&#8211;	Drive company cars around campus<br />
-&#8211;	Work with little supervision whilst strict rules are in place</p>
-<p><strong>Fast Food Worker (2012) [February – March]</strong><br />
-Original Flame Grill Chicken<br />
-	-Package and serve an ordered meal<br />
-	-Perform ILDE duties and clean on time intervals<br />
-	-Remember orders and ask customer to repeat where necessary</p>
-<p><strong>Computer repair generalist hobby [2008-present]</strong><br />
--Performed several upgrades of various neighbours’ computers<br />
-(Operating Systems, software &#038; hardware).<br />
-&#8211; Removing Computer malware and performing maintenance</p>
+
+<p><strong>Technical Developer &nbsp; April-2016 - Current</strong><br />
+    Adelphi Digital Consulting Group, Canberra</p>
+<p>The Technical Developer performs a variety of roles including developing the backend systems in the many websites created and maintained by Adelphi.</p>
+<ul>
+    <li>Implements solutions in C#, Java, PHP and also touches on HTML/JS</li>
+    <li>Liaises with Front-end Developers, Project Managers & Clients to find the best user experience</li>
+    <li>Installation and setup of computers and devices including phones</li>
+</ul>
+
+<p><strong>Project Assistant (Web Developer) &nbsp; (2014 - 2016)</strong><br />
+    Division of Human Resources, Charles Sturt University, Wagga Wagga</p>
+<p>The Project Assistant in the Division of Human Resources provides the technical 
+    means to help the division by developing its webpages through collaboration with staff.</p>
+<ul>
+    <li>Developed many webpages through communication with staff and handled requests</li>
+    <li>Regularly liaised and gathered business requirements with stakeholders </li>
+    <li>Used many HTML, CSS, JavaScript and excel VBA code techniques in various projects</li>
+</ul>
+
+<p><strong>Technical Installer (2012 &#8211; 2013) </strong><br />
+Laurie Graham’s Communications</p>
+<ul>
+    <li>Demonstrated customer service through arranging meetings with businesses</li>
+    <li>Install & Maintain Eftpos and ATM machines</li>
+    <li>Authorise installations by calling Bank hotline on a regular basis</li>
+</ul>
+
+<p><strong>Computer Installer (2013)</strong><br />
+    Division of Information Technology Charles Sturt University, Wagga Wagga</p>
+<ul>
+    <li>Image and setup computers using a networked solution</li>
+    <li>Communicate with Staff to organise appointments</li>
+    <li>Backup and transfer & erase data</li>
+</ul>
+
+
 <h2>Work experience</h2>
-<p><strong>Administrative assistant (late 2009 for a week)</strong><br />
-Wagga Wagga City Council<br />
-	-Worked with Printing, HR &#038; Environmental Sectors.<br />
--Transporting paper, refill printers<br />
--Filing paperwork, entering data<br />
--Dressing appropriately and acquiring necessary work ethics<br />
-	-Follow instructions effectively once given instructions</p>
-<p><strong>Testing and general duties (Early 2009 for a week)</strong><br />
-Wollundary Computer Systems<br />
-	-Test and report the faulty condition of various computer parts<br />
-	-Developing a work habit to work until the job is done or time has elapsed<br />
-	-Work effectively with minimal encouragement and surrounding people.</p>
+
+<p><strong>IT Scholarship &nbsp; [12 weeks over 3 year period] (2012 – 2014)</strong><br />
+    Riverina Water County Council, Wagga Wagga</p>
+<ul>
+    <li>Collaboratively create solutions with staff</li>
+    <li>Erase Data, image & repair computers</li>
+    <li>Complete tasks provided successfully.</li>
+</ul>
+
+<h2>Education</h2>
+<p><strong>Bachelor of Information Technology, Software Development &nbsp; (2012 - 2015)</strong><br />
+    Charles Sturt University</p>
+<ul>
+    <li>At least distinction in all technical subjects – Nearly Distinction grade average</li>
+    <li>Enjoyed the, Web, Networking and Administration subjects</li>
+    <li>Completed a major project with stakeholders in mind</li>
+</ul>
+<p><em>Adaptive Quiz Manager</em> – project - a web based program written in PHP with MySQL, 
+    used to create quizzes with a different paths depending on user input, so creators can 
+    tailor learning content to the weaknesses of students. I lead the development with two 
+    fellow students in a team.</p>
+    
 <h2>Voluntary work</h2>
-<p><strong>Sunday School Assistant [Children’s ministry] (2008-current)</strong><br />
-	-Worked with many kids at a time<br />
-	-Worked personally with autistic kids</p>
-<p><strong>Boys Brigade Assistant [Tuesday nights when available] (Mid 2010 &#8211; 2013)</strong><br />
-	-Encourage and Respect kids’ work<br />
-	-Respected older leaders’ decisions</p>
-<h2>Qualifications/Certificates</h2>
-<p>-2011 Student Leader at Wagga Wagga Christian College<br />
--Safe Environments – For Children and Young People Course (Boys Brigade) </p>
-<h2>Sports played</h2>
-<p>-Soccer 		-Wagga Wagga club (2005-2009)<br />
--Hockey	-School Competition (2009 &#8211; 2011)</p>
+
+<p><strong>Wagga’s Hackathon volunteer &nbsp; (28th November 2015)</strong></p>
+<ul>
+    <li>Taught small kids how to make a mini game using E-toys</li>
+    <li>Communicated it how worked and diagnosed issues</li>
+</ul>
+<p><strong>Multimedia, Wagga Wagga Baptist Church &nbsp; (2008 - 2016)</strong></p>
+<ul>
+    <li>Co-ordinate songs and provide lyrics on the projector</li>
+    <li>Communicate with various music teams to achieve common goals</li>
+</ul>
+
+<h2>Certificates & Achievements</h2>
+
+<p><strong>Executive Dean List Award x2 &nbsp; (2013 & 2015)</strong></p>
+<ul><li>(Outstanding Academic Performance)</li></ul>
+
+<p><strong>Cisco Certified Network Associate &nbsp; (2013 - 2015)</strong></p>
+<ul><li>(via University Subject knowledge)</li></ul>
+
+<p><strong>Riverina Water County Council Scholarship &nbsp; (2012)</strong></p>
+<ul><li>(Including 12 weeks of IT work experience)</li></ul>
 
 <?php
 $templateLogic->endBody();
