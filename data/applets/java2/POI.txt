@@ -1,0 +1,186 @@
+167
+56
+Petrol Station1
+417
+155
+Hospital
+401
+307
+Hospital
+420
+324
+Petrol Station2
+459
+67
+Taxi Stand
+149
+95
+Taxi Stand
+398
+61
+ATM
+303
+369
+Hospital
+502
+519
+ATM
+194
+340
+Petrol Station3
+426
+0
+Shopping Centre
+20
+547
+ATM
+289
+320
+Shopping Centre
+414
+481
+Petrol Station4
+562
+521
+Shopping Centre
+255
+569
+Shopping Centre
+90
+344
+Hospital
+178
+489
+Taxi Stand
+301
+355
+Police Station
+455
+343
+Petrol Station5
+561
+493
+Shopping Centre
+466
+400
+Police Station
+303
+50
+Taxi Stand
+540
+278
+Shopping Centre
+580
+33
+Hospital
+380
+370
+Shopping Centre
+598
+431
+Taxi Stand
+167
+27
+Shopping Centre
+165
+235
+Shopping Centre
+591
+320
+Petrol Station6
+368
+40
+ATM
+571
+297
+Shopping Centre
+171
+263
+Hospital
+81
+193
+Shopping Centre
+227
+190
+Taxi Stand
+544
+198
+Shopping Centre
+327
+102
+Petrol Station7
+404
+90
+ATM
+372
+26
+Shopping Centre
+457
+186
+Taxi Stand
+560
+385
+Police Station
+100
+263
+Hospital
+210
+259
+Police Station
+46
+360
+Shopping Centre
+468
+2
+Petrol Station8
+146
+530
+Police Station
+537
+553
+ATM
+511
+243
+Police Station
+48
+66
+Police Station
+292
+145
+ATM
+300
+250
+City Shopping
+300
+200
+Bus Station
+350
+180
+ATM
+400
+200
+Police Station
+390
+150
+Hospital
+450
+250
+Petrol Station9
+400
+265
+Police Station
+100
+500
+Shopping Centre
+100
+400
+Police Station
+200
+420
+ATM
+300
+430
+Bus Station
+335
+280
+Shopping Centre

@@ -8,8 +8,9 @@ $templateLogic->setTitle('Java Assignments');
 $templateLogic->setSubMenuType("java-assignments", "java-assignments");
 $templateLogic->startBody();
 ?>
-<p>Java is the core language used during my Bachelor of Information Technology degree. To display my technical competencies of for I have done, I put here to everyone to see.</p>
-<p>Also, I have re-built my university Java Assignments for the web so I can maintain my skills in this after not using this programming language in the last year of my degree. Check them out!</p>
+<p>Java is the core language used during my Bachelor of Information Technology degree. 
+    To display my technical competencies of I have done, I have put these here for everyone to see.</p>
+<p>They have alse been rebuilt for the web and so should run in your web browser. Check them out!</p>
 
 <h3>Java 1 Subject - ITC-206</h3>
 <p>The first exposure to the Java programming language. Completed during Session 1 2013.</p>
